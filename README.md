@@ -1,13 +1,11 @@
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #58a6ff; text-shadow: 1px 1px 2px #0d1117;">Hi 👋, I'm Muhammad Sheikh</h1>
-<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #c9d1d9;">A passionate MERN Stack Developer from Pakistan</h3>
+<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #c9d1d9;">A Passionate MERN Stack Developer from Pakistan</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=shykhmuhammad&label=Profile%20views&color=0e75b6&style=flat" alt="shykhmuhammad" />
+  <img src="https://i.ibb.co/h1ZCDRJs/Chat-GPT-Image-Apr-8-2025-07-33-31-PM.png" alt="Chat-GPT-Image-Apr-8-2025-07-33-31-PM">
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/123456789?v=4" alt="Muhammad Sheikh" width="200" style="border-radius: 50%; border: 5px solid #58a6ff; box-shadow: 0 0 10px rgba(88, 166, 255, 0.5);" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -15,17 +13,25 @@
   </a>
 </p>
 
-- 📫 How to reach me: **muhammadsheikh880@gmail.com**
-- ⚡ Fun fact: "Did you know that '404 Not Found' error is the most popular HTTP status code? It's so iconic that it even has a day dedicated to it, called 404 Day (April 4th)! It's a little funny because the 'Page Not Found' error is one of the most recognized issues on the web!"
+
+🔭 I’m always working on exciting projects that challenge my skills and push me to grow as a developer.
+
+💡 I believe in learning by building, and I enjoy solving real-world problems through code.
+
+🌱 Currently expanding my knowledge in Next.js, TypeScript, and Backend architecture.
+ 
+⚡ Fun fact: "Did you know that '404 Not Found' error is the most popular HTTP status code? It's so iconic that it even has a day dedicated to it, called 404 Day (April 4th)! It's a little funny because the 'Page Not Found' error is one of the most recognized issues on the web!"
+
+📫 How to reach me: **muhammadsheikh880@gmail.com**
 
 ---
 
 ### Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/muhammad-sheikh" target="blank">
+  <a href="https://www.linkedin.com/in/muhammad-sheikh-07b7b8354/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-sheikh" height="30" width="40" />
   </a>
-  <a href="https://fb.com/https://www.facebook.com/profile.php?id=100087994946628" target="blank">
+  <a href="[https://fb.com/https://www.facebook.com/profile.php?id=100087994946628](https://www.facebook.com/profile.php?id=100087994946628)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
   </a>
   <a href="https://instagram.com/ohh.itz__sheikh" target="blank">
@@ -106,4 +112,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shykhmuhammad&" alt="shykhmuhammad" />
+</p>
+
+---
+
+<p align='center'>
+  ⭐*Thanks for visiting my profile! Feel free to check out my repositories and drop a ⭐ if you like any of my work!*
 </p>
