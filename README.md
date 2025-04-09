@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Muhammad Sheikh</h1>
-<h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #58a6ff; text-shadow: 1px 1px 2px #0d1117;">Hi 👋, I'm Muhammad Sheikh</h1>
+<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #c9d1d9;">A passionate MERN Stack Developer from Pakistan</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=shykhmuhammad&label=Profile%20views&color=0e75b6&style=flat" alt="shykhmuhammad" />
+</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/123456789?v=4" alt="Muhammad Sheikh" width="200" style="border-radius: 50%; border: 5px solid #58a6ff; box-shadow: 0 0 10px rgba(88, 166, 255, 0.5);" />
 </p>
 
 <p align="center">
@@ -12,7 +16,7 @@
 </p>
 
 - 📫 How to reach me: **muhammadsheikh880@gmail.com**
-- ⚡ Fun fact: "Did you know that '404 Not Found' error is the most popular HTTP status code? It’s so iconic that it even has a day dedicated to it, called 404 Day (April 4th)! It's a little funny because the 'Page Not Found' error is one of the most recognized issues on the web!"
+- ⚡ Fun fact: "Did you know that '404 Not Found' error is the most popular HTTP status code? It's so iconic that it even has a day dedicated to it, called 404 Day (April 4th)! It's a little funny because the 'Page Not Found' error is one of the most recognized issues on the web!"
 
 ---
 
