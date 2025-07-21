@@ -2,7 +2,8 @@
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #c9d1d9;">A Passionate MERN Stack Developer from Pakistan</h3>
 
 <p align="center"> 
-  <img src="![WhatsApp Image 2025-07-21 at 20 57 29_7b3f9621](https://github.com/user-attachments/assets/30a4a82d-d0f9-44bb-8d35-b9596ecd70cf)
+  <img src="<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ce9d4fb6-3027-4240-9e62-6294b3ed0157" />
+
 ">
 </p>
 
