@@ -2,7 +2,7 @@
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #c9d1d9;">A Passionate MERN Stack Developer from Pakistan</h3>
 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/mern-cover.jpg" alt="shykhmuhammad07" />
+  <img src="WhatsApp Image 2025-07-21 at 20.57.29_7b3f9621.jpg" alt="shykhmuhammad07" />
 </p>
 
 <p align="center">
