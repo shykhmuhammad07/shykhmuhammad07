@@ -2,12 +2,8 @@
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #c9d1d9;">A Passionate MERN Stack Developer from Pakistan</h3>
 
 <p align="center"> 
-  <img src="<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ce9d4fb6-3027-4240-9e62-6294b3ed0157" />
-
-">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/mern-cover.jpg" alt="shykhmuhammad07" />
 </p>
-
-
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -15,13 +11,12 @@
   </a>
 </p>
 
-
 🔭 I’m always working on exciting projects that challenge my skills and push me to grow as a developer.
 
 💡 I believe in learning by building, and I enjoy solving real-world problems through code.
 
 🌱 Currently expanding my knowledge in Next.js, TypeScript, and Backend architecture.
- 
+
 ⚡ Fun fact: "Did you know that '404 Not Found' error is the most popular HTTP status code? It's so iconic that it even has a day dedicated to it, called 404 Day (April 4th)! It's a little funny because the 'Page Not Found' error is one of the most recognized issues on the web!"
 
 📫 How to reach me: **muhammadsheikh880@gmail.com**
@@ -33,7 +28,7 @@
   <a href="https://www.linkedin.com/in/muhammad-sheikh-07b7b8354/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-sheikh" height="30" width="40" />
   </a>
-  <a href="[https://fb.com/https://www.facebook.com/profile.php?id=100087994946628](https://www.facebook.com/profile.php?id=100087994946628)" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100087994946628" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
   </a>
   <a href="https://instagram.com/ohh.itz__sheikh" target="blank">
@@ -119,5 +114,5 @@
 ---
 
 <p align='center'>
-  ⭐*Thanks for visiting my profile! Feel free to check out my repositories and drop a ⭐ if you like any of my work!*
+  ⭐ *Thanks for visiting my profile! Feel free to check out my repositories and drop a ⭐ if you like any of my work!*
 </p>
