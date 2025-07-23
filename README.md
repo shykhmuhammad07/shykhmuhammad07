@@ -2,13 +2,7 @@
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #c9d1d9;">A Passionate MERN Stack Developer from Pakistan</h3>
 
 <p align="center"> 
-  <img src="WhatsApp Image 2025-07-21 at 20.57.29_7b3f9621.jpg" alt="shykhmuhammad07" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shykhmuhammad" alt="shykhmuhammad" />
-  </a>
+  <img src="WhatsApp Image 2025-07-21 at 20.57.29_7b3f9621.jpg" />
 </p>
 
 🔭 I’m always working on exciting projects that challenge my skills and push me to grow as a developer.
