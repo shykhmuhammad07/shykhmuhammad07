@@ -21,15 +21,15 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-sheikh-07b7b8354/" target="_blank">
+  <a href="https://www.linkedin.com/shykhmuahmmad07" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100087994946628" target="_blank">
+  <a href="https://www.facebook.com/byteforgemern" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/ohh.itz__sheikh" target="_blank">
+  <a href="https://instagram.com/shykhmuhammad07" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" />
   </a>
 </p>
@@ -47,11 +47,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shykhmuhammad&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shykhmuhammad07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shykhmuhammad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shykhmuhammad07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shykhmuhammad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shykhmuhammad07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
